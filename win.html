@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science Hangman/Win</title>
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body class="home">
+    <span style="background-color: rgb(171, 225, 169); padding: 5px; font-size: 4em;">Congratulations! You won! :)</span>
+    <br>
+    <div>
+        <img src="images/wonn.jpg" alt="you won">
+    </div>
+    <br>
+    <div id="result"></div>
+    <button style="text-align:center;" class="option" onclick="window.location.assign('home.html')">Play Again</button><!--Button to redirec to home page-->
+    <script>
+        window.onload = function() {
+            const answer = sessionStorage.getItem('answer');
+            document.getElementById('result').innerText = `The answer was: ${answer}`;
+        }; // Display answer stored in div container with id 'result'
+    </script>
+</body>
+</html>

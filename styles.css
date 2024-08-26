@@ -1,0 +1,149 @@
+.home {
+    background-image: url('images/bg.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(199, 70, 154);
+} /*Styling for home page*/
+
+.chem {
+    background-image: url('images/chem.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(31, 37, 214);
+} /*Styling for chemistry page*/
+
+.phy {
+    background-image: url('images/phy.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(31, 37, 214);
+} /*Styling for physics page*/
+.bot {
+    background-image: url('images/bot.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(31, 37, 214);
+} /*Styling for botany page*/
+.zoo {
+    background-image: url('images/zoo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(31, 37, 214);
+} /*Styling for zoology page*/
+.spa{
+    background-image: url('images/spa.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(31, 37, 214);
+} /*Styling for astronomy page*/
+.cs {
+    background-image: url('images/cs.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(31, 37, 214);
+} /*Styling for computer science page*/
+
+h1, h3 {
+    margin: 10px 0;
+}
+
+.options-container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+} /*Styling for category buttons section*/
+
+.option {
+    color: white;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: rgb(54, 141, 195);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 1rem;
+} /*Styling for individual buttons throughout game*/
+
+.option:hover {
+    background-color: rgb(20, 76, 108);
+}
+
+.bold{
+    font-weight:bold;
+}
+
+.larger-than-h1 {
+    font-size: 3em; 
+}
+#word-display {
+    font-size: 3em;
+    font-family: 'Courier New', monospace; 
+    color:rgba(10, 3, 3, 0.221);
+    letter-spacing: 0.5em; 
+    font-weight: bold ;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+} /*Styling for the hangman blank word display in each hangman game*/
