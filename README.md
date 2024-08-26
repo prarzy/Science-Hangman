@@ -60,8 +60,11 @@ We welcome contributions to improve the game. To contribute:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Maintainer: Prarthana Upadhyaya
-Support: Open an issue on the GitHub Issues page
+### Maintainer: 
+Prarthana Upadhyaya
+
+### Support: 
+Open an issue on the GitHub Issues page
 
 ## Acknowledgments
 - **Inspiration**: The idea for this project came from my aim to create a fun but educational game. The classic game of Hangman was a perfect fit to incorporate learning in a unique manner.
