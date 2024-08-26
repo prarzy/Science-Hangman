@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science Hangman/Astronomy</title>
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body class="spa">
+    <header>
+        <h1><span class="bold" style="background-color: rgb(171, 225, 169); padding: 5px;">Astronomy</span></h1>
+    </header>
+
+    <main>
+        <div id="word-display" style="background-color: rgb(171, 225, 169);"></div><!--Blank underscores to represent word-->
+        <br>
+        <div id="drawing"></div><!--Hangman images that change per incorrect input-->
+        <br>
+        <label for="letter" style="font-size: 1.2em; margin-right: 10px;">Enter a letter:</label>
+        <input type="text" id="letter" placeholder="Letter" maxlength="1"><!--Input box to enter letter-->
+    </main>
+
+    <script src="script.js" defer></script>
+</body>
+
+</html>
