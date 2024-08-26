@@ -46,7 +46,7 @@ Simply download and open the HTML files in your browser—no extra steps needed!
 ![Astronomy page Screenshot](screenshots/spa.png)
 ![Winning page Screenshot](screenshots/won.png)
 ![Losing page Screenshot](screenshots/lose.png)
-![Gameplay page Screenshot](screenshots/gameplay.png)        *The gameplay screen where users guess letters.*
+![Gameplay page Screenshot](screenshots/gameplay.png)   
 
 ## Contributing
 We welcome contributions to improve the game. To contribute:
