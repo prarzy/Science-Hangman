@@ -76,7 +76,7 @@ Open an issue on the GitHub Issues page
   - [Git Bash](https://gitforwindows.org/) for executing Git commands and managing the repository locally.
   - [Stack Overflow](https://stackoverflow.com/) and [GeeksforGeeks](https://geeksforgeeks.org/) for troubleshooting and 
     finding solutions to coding challenges.
-    
+  -[ChatGPT by OpenAI](https://chatgpt.com/) for generating category based words to provide for hangman.
 - **Support**: Thanks to the online developer communities and documentation that provided valuable information and guided me through solutions during the development process.
 
 
