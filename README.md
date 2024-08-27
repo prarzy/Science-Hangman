@@ -74,9 +74,10 @@ Open an issue on the GitHub Issues page
   - **HTML, CSS, and JavaScript**: The core technologies used to build and style the web application.
   - [GitHub](https://github.com/) for hosting the project’s repository and managing version control.
   - [Git Bash](https://gitforwindows.org/) for executing Git commands and managing the repository locally.
+  - [ChatGPT by OpenAI](https://chatgpt.com/) for generating category based words to provide for hangman.
   - [Stack Overflow](https://stackoverflow.com/) and [GeeksforGeeks](https://geeksforgeeks.org/) for troubleshooting and 
     finding solutions to coding challenges.
-  -[ChatGPT by OpenAI](https://chatgpt.com/) for generating category based words to provide for hangman.
+
 - **Support**: Thanks to the online developer communities and documentation that provided valuable information and guided me through solutions during the development process.
 
 
