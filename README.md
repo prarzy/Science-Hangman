@@ -37,16 +37,16 @@ Simply download and open the HTML files in your browser—no extra steps needed!
 4. Responsive design for various screen sizes
 
 ## Screenshots
-![Homepage Screenshot](screenshots/home.png)
-![Physics page Screenshot](screenshots/phy.png)
-![Chemistry page Screenshot](screenshots/chem.png)
-![Computer Science page Screenshot](screenshots/cs.png)
-![Botany page Screenshot](screenshots/bot.png)
-![Zoology page Screenshot](screenshots/zoo.png)
-![Astronomy page Screenshot](screenshots/spa.png)
-![Winning page Screenshot](screenshots/won.png)
-![Losing page Screenshot](screenshots/lose.png)
-![Gameplay page Screenshot](screenshots/gameplay.png)   
+![Homepage Screenshot](Screenshots/home.png)
+![Physics page Screenshot](Screenshots/phy.png)
+![Chemistry page Screenshot](Screenshots/chem.png)
+![Computer Science page Screenshot](Screenshots/cs.png)
+![Botany page Screenshot](Screenshots/bot.png)
+![Zoology page Screenshot](Screenshots/zoo.png)
+![Astronomy page Screenshot](Screenshots/spa.png)
+![Winning page Screenshot](Screenshots/won.png)
+![Losing page Screenshot](Screenshots/lose.png)
+![Gameplay page Screenshot](Screenshots/gameplay.png)   
 
 ## Contributing
 We welcome contributions to improve the game. To contribute:
